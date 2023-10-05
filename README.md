@@ -25,3 +25,5 @@
 - Added drag and drop file
 
 If you have any questions / suggestions/ issue, please do not hesitate to contact me through this email (`hello@jsonsilo.com`)or follow me on GitHub (https://github.com/Jaironlanda) or Twitter (https://twitter.com/jaironlanda).
+
+I'm happy to help.
