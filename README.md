@@ -3,18 +3,18 @@
 ### Roadmaps for Upcoming Features, Enhancements, and Improvements
 
 **In Progress**
-- Target Sign Up: 50 (Now 33🎉)
- 
-
-**Next Planned:**
-- Custom Domain
-- Up to 100MB Storage
 - Support Pagination
 - SDK
-- API Uptime Monitoring
 - Blog
 
+**Next Planned:**
+- Custom Domain Support
+- Up to 100MB Storage
+
+
 **Completed:**
+- Target Sign Up: 50 🎉
+- API Uptime Monitoring
 - Advanced Cache
 - Up to 5MB Storage
 - Unlimited Requests
