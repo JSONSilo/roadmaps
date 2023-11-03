@@ -6,6 +6,7 @@
 - Support Pagination
 - SDK
 - Blog
+- add changelog
 
 **Next Planned:**
 - Custom Domain Support
