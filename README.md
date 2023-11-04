@@ -3,10 +3,11 @@
 ### Roadmaps for Upcoming Features, Enhancements, and Improvements
 
 **In Progress**
+- add user management (password reset, update password and delete account)
 - Support Pagination
 - SDK
 - Blog
-- add changelog
+- add changelog page
 
 **Next Planned:**
 - Custom Domain Support
