@@ -13,7 +13,10 @@
 - Custom Domain Support
 - Up to 100MB Storage
 
+**WIP**
+- Soft limit request
 
+  
 **Completed:**
 - Target Sign Up: 50 🎉
 - API Uptime Monitoring
