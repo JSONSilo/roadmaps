@@ -4,14 +4,15 @@
 
 **In Progress**
 - add user management (password reset, update password and delete account)
-- Support Pagination
-- SDK
-- Blog
-- add changelog page
 
 **Next Planned:**
 - Custom Domain Support
 - Up to 100MB Storage
+- Update Docs
+- Support Pagination
+- SDK
+- Blog
+- add changelog page
 
 **WIP**
 - Soft limit request
