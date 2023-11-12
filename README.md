@@ -4,6 +4,7 @@
 
 **In Progress**
 - add user management (password reset, update password and delete account)
+- Rework Docs
 
 **Next Planned:**
 - Custom Domain Support
