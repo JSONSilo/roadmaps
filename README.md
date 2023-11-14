@@ -4,22 +4,21 @@
 
 **In Progress**
 - add user management (password reset, update password and delete account)
-- Rework Docs
+- Blog
 
 **Next Planned:**
 - Custom Domain Support
 - Up to 100MB Storage
-- Update Docs
 - Support Pagination
 - SDK
-- Blog
-- add changelog page
 
 **WIP**
 - Soft limit request
 
   
 **Completed:**
+- add changelog page
+- Rework Docs
 - Target Sign Up: 50 🎉
 - API Uptime Monitoring
 - Advanced Cache
