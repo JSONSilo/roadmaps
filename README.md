@@ -6,6 +6,7 @@
 - add user management (password reset, update password and delete account)
 - Blog
 - add soft limit (WIP)
+- remove lifetime
 
 **Next Planned:**
 - Custom Domain Support
