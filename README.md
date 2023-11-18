@@ -8,12 +8,14 @@
 - add soft limit (WIP)
 - remove lifetime
 
+  
 **Next Planned:**
 - Custom Domain Support
 - Up to 100MB Storage
 - Support Pagination
 - SDK
-
+- API (Insert, Silo Meta, Delete, Update)
+  
 **WIP**
 - Soft limit request
 
