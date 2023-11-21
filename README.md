@@ -15,6 +15,7 @@
 - Support Pagination
 - SDK
 - API (Insert, Silo Meta, Delete, Update)
+- Improve SEO
   
 **WIP**
 - Soft limit request
