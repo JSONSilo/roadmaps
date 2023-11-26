@@ -19,6 +19,7 @@
   
 **WIP**
 - Soft limit request
+- support multiple regions
 
   
 **Completed:**
