@@ -20,6 +20,7 @@
 **WIP**
 - Soft limit request
 - support multiple regions
+- migrate managed database (to reduce cost)
 
   
 **Completed:**
