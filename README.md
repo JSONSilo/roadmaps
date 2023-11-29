@@ -10,6 +10,7 @@
 
   
 **Next Planned:**
+- Translation
 - Custom Domain Support
 - Up to 100MB Storage
 - Support Pagination
