@@ -1,13 +1,13 @@
 ## Welcome to JSONSilo.com!
 
 
-# 🎉 Now, JSONsilo.com has 127 sign-ups! 🎉
+# 🎉 Now, JSONsilo.com has 128 sign-ups! 🎉
 
 ### Roadmaps for Upcoming Features, Enhancements, and Improvements
 
-**December Update**
+**December Update (Soon)**
 - increase lifetime price to **72$** 💰
-- add user management (password reset, update password and delete account)
+- user management (password reset, update password and delete account)
 
 **In Progress**
 - Blog
