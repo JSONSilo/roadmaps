@@ -28,7 +28,7 @@
 - Soft limit request
 - support multiple regions
 - migrate managed database (to reduce cost)
-
+- add CORS protection
   
 **Completed:**
 - add changelog page
