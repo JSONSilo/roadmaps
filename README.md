@@ -23,6 +23,7 @@
 - SDK
 - API (Insert, Silo Meta, Delete, Update)
 - Improve SEO
+- rework pricing
   
 **WIP**
 - Soft limit request
