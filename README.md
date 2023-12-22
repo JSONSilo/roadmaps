@@ -7,7 +7,7 @@
 
 **December Update (Soon)**
 - increase lifetime price to **72$** 💰
-- user management (password reset, update password and delete account)
+- ~~user management (password reset, update password and delete account)~~ ✅ Completed
 
 **In Progress**
 - Blog
