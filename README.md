@@ -1,19 +1,14 @@
 ## Welcome to JSONSilo.com!
 
 
-# 🎉 Now, JSONsilo.com has 149 sign-ups! 🎉
+# 🎉 Now, JSONsilo.com has 150 sign-ups! 🎉
 
 ### Roadmaps for Upcoming Features, Enhancements, and Improvements
 
-**December Update (Soon)**
-- increase lifetime price to **72$** 💰
-- ~~user management (password reset, update password and delete account)~~ ✅ Completed
 
 **In Progress**
 - Blog
 - add soft limit (WIP)
-
-
   
 **Next Planned:**
 - Translation
@@ -24,7 +19,8 @@
 - API (Insert, Silo Meta, Delete, Update)
 - Improve SEO
 - rework pricing
-  
+-increase lifetime price to **72$** 💰
+
 **WIP**
 - Soft limit request
 - support multiple regions
