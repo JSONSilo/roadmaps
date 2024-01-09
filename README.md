@@ -1,7 +1,7 @@
 ## Welcome to JSONSilo.com!
 
 
-# 🎉 Now, JSONsilo.com has 159 sign-ups! 🎉
+# 🎉 Now, JSONsilo.com has 160 sign-ups! 🎉
 
 ### Roadmaps for Upcoming Features, Enhancements, and Improvements
 
@@ -9,14 +9,15 @@
 **In Progress**
 - Blog
 - add soft limit (WIP)
-  
+- API (Insert, Silo Meta, Delete, Update) 🧐
+
 **Next Planned:**
 - Translation
 - Custom Domain Support
 - Up to 100MB Storage
 - Support Pagination
 - SDK
-- API (Insert, Silo Meta, Delete, Update)
+
 - Improve SEO
 - rework pricing
 -increase lifetime price to **72$** 💰
