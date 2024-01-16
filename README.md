@@ -8,7 +8,7 @@
 
 **In Progress**
 - Blog
-- add soft limit (WIP)
+- Rate Limit for free plan. 24 reqs/seconds
 - API (Insert, Silo Meta, Delete, Update) 🧐
 
 **Next Planned:**
