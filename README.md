@@ -10,7 +10,8 @@
 - Blog
 - Rate Limit for free plan. 24 reqs/seconds
 - API (Insert, Silo Meta, Delete, Update) 🧐
-
+- support multiple regions
+  
 **Next Planned:**
 - Translation
 - Custom Domain Support
@@ -24,7 +25,7 @@
 
 **WIP**
 - Soft limit request
-- support multiple regions
+
 - migrate managed database (to reduce cost)
 - add CORS protection
   
