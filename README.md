@@ -1,7 +1,7 @@
 ## Welcome to JSONSilo.com!
 
 
-# 🎉 Now, JSONsilo.com has 177 sign-ups! 🎉
+# 🎉 Now, JSONsilo.com has 178 sign-ups! 🎉
 
 ### Roadmaps for Upcoming Features, Enhancements, and Improvements
 
@@ -11,6 +11,7 @@
 - Rate Limit for free plan. 24 reqs/seconds
 - API (Insert, Silo Meta, Delete, Update) 🧐
 - support multiple regions (code: `sg-01`) [High Priority]
+  - Staging
   
 **Next Planned:**
 - Translation
