@@ -11,7 +11,7 @@
 - Rate Limit for free plan. 24 reqs/seconds
 - API (Insert, Silo Meta, Delete, Update) 🧐
 - support multiple regions (code: `sg-01`) [High Priority]
-  - Staging
+  - Final Staging
   
 **Next Planned:**
 - Translation
