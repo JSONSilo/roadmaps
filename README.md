@@ -9,14 +9,15 @@
 **In Progress**
 - Blog
 - API (Insert, Silo Meta, Delete, Update) 🧐
-
+- Improve SEO
+  
 **Next Planned:**
 - Translation
 - Custom Domain Support
 - Up to 100MB Storage
 - Support Pagination
 - SDK
-- Improve SEO
+
 - rework pricing
 -increase lifetime price to **72$** 💰
 
