@@ -9,6 +9,7 @@
 **In Progress**
 - Blog
 - API (Insert, Silo Meta, Delete, Update) 🧐
+  - Staging
 - Improve SEO
   
 **Next Planned:**
