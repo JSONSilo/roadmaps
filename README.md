@@ -25,6 +25,7 @@
 - Soft limit request / rate limit request per second
 - migrate managed database (to reduce cost)
 - add CORS protection
+- custom JSON query
   
 **Completed:**
 - add changelog page
