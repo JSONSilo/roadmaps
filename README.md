@@ -1,23 +1,20 @@
 ## Welcome to JSONSilo.com!
 
 
-# 🎉 Now, JSONsilo.com has 263 verified sign-ups! 🎉
+# 🎉 Now, JSONsilo.com has 271 verified sign-ups! 🎉
 
 ### Roadmaps for Upcoming Features, Enhancements, and Improvements
 
 
 **In Progress**
 - Blog
-- API (Insert, Silo Meta, Delete, Update) 🧐
-  - Staging 
+- SDK
   
 **Next Planned:**
 - Translation
 - Custom Domain Support
 - Up to 100MB Storage
 - Support Pagination
-- SDK
-
 - rework pricing
 -increase lifetime price to **72$** 💰
 
@@ -41,6 +38,7 @@
 - Enhanced UI/UX
 - Added drag and drop file
 - support multiple regions (code: `sg-01`)
+- API (Insert, Silo Meta, Delete, Update) 
   
 If you have any questions / suggestions/ issue, please do not hesitate to contact me through this email (`hello@jsonsilo.com`)or follow me on GitHub (https://github.com/Jaironlanda) or Twitter (https://twitter.com/jaironlanda).
 
