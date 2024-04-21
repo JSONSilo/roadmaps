@@ -9,6 +9,9 @@
 **In Progress**
 - Blog
 - SDK
+  - Python
+  - JavaScript (NodeJS)
+  - More
   
 **Next Planned:**
 - Translation
