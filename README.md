@@ -1,13 +1,14 @@
 ## Welcome to JSONSilo.com!
 
 
-# 🎉 Now, JSONsilo.com has 475 verified sign-ups! 🎉
+# 🎉 Now, JSONsilo.com has 480 verified sign-ups! 🎉
 
 ### Roadmaps for Upcoming Features, Enhancements, and Improvements
 
 
 **In Progress**
 - Blog
+- Soft limit request for demo and API Management 24 requests per seconds
 - SDK
   - Python
   - JavaScript (NodeJS)
@@ -22,7 +23,7 @@
 -increase lifetime price to **72$** 💰
 
 **WIP**
-- Soft limit request / rate limit request per second
+- ~Soft limit request / rate limit request per second~
 - migrate managed database (to reduce cost)
 - add CORS protection
 - custom JSON query
