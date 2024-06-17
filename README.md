@@ -1,7 +1,7 @@
 ## Welcome to JSONSilo.com!
 
 
-# 🎉 Now, JSONsilo.com has 576 verified sign-ups! 🎉
+# 🎉 Now, JSONsilo.com has 578 verified sign-ups! 🎉
 
 ### Roadmaps for Upcoming Features, Enhancements, and Improvements
 
@@ -9,7 +9,7 @@
 **In Progress**
 - Blog
 - Soft limit request for demo and API Management 24 requests per seconds
-- SDK
+- SDK (Hold)
   - Python
   - JavaScript (NodeJS)
   - More
