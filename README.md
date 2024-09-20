@@ -1,7 +1,7 @@
 ## Welcome to JSONSilo.com!
 
 
-# 🎉 Now, JSONsilo.com has 966 verified sign-ups! 🎉
+# 🎉 Now, JSONsilo.com has 969 verified sign-ups! 🎉
 
 ### Roadmaps for Upcoming Features, Enhancements, and Improvements
 
